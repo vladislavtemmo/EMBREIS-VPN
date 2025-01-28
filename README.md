@@ -58,4 +58,5 @@ GRABLE - 8.7
 To build on your device you will need:
 1) Enable developer mode
 2) install all dependencies specified in libs.version.toml
-3) Click on Sync Project and click Run
+3) also don't forget to change the API to connect to the server
+4) Click on Sync Project and click Run
