@@ -47,3 +47,15 @@ For VPN connections, we use the open-source library ics-openvpn, which allows us
 
 Email: embreisltd@gmail.com
 Website: embreis.space
+__________ASSEMBLY_______________
+The project is built on Ubuntu 24
+Android Studia version 2024.1.1 Koala
+SDK - 35
+NDK - 27.0.12077973
+CMAKE - 3.31.1
+ANDROID API 35
+GRABLE - 8.7
+To build on your device you will need:
+1) Enable developer mode
+2) install all dependencies specified in libs.version.toml
+3) Click on Sync Project and click Run
